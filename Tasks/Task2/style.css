@@ -1,0 +1,52 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: url(img/bg.jpg) no-repeat center/cover;
+	background-attachment: fixed;
+}
+
+.container
+{
+	background-color: #58728c;
+	width: 900px;
+	height: 3000px;
+	margin:0 auto;
+	margin-top:10%;
+}
+
+.line
+{
+	width: 900px;
+	height: 75px;
+	position: absolute;
+	background-color: #1f313f;
+}
+
+.list
+{
+	float: left;
+}
+
+#ava
+{
+	border: 3px solid #bfcbd9;
+	position: a;
+	height: 40%;
+	box-shadow: 0 0 3px black;
+}
+
+#phone
+{
+	margin-left: 175px;
+}
+
+
+.whiteline
+{
+	margin-top:75px;
+	width: 900px;
+	height: 10px;
+	background-color: #bfcbd9;
+	position: absolute;
+}

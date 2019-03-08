@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+div{
+	padding: 0;
+	margin: 0;
+}
+
+form{
+	margin: 0;
+	padding: 0;
+}
+
+.inputing{
+	resize: none;
+	height: 150px;
+	width: 24.7vw;
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	margin-top: 5vw;
+	margin-left: 30vw;
+	width: 25vw;
+	height: 50vw;
+}
+
+.s{
+	margin-left: 320px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 0;
+}
+
+.s:hover{
+	background-color: purple;
+	color: white;
+}
+
+.MyLabel{
+	display: inline-block;
+	margin-bottom: 30px;
+	margin-right: 10px;
+}
+

@@ -1,0 +1,118 @@
+body
+{
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	margin:0;
+	padding: 0;
+}
+
+.blackline
+{
+	height: 30px;
+	background-color: black;
+}
+
+.blackline li
+{
+	display: block;
+	margin-right: 115px;
+}
+
+.blackline a
+{
+	text-decoration: none;
+	font-size: 12.8px;
+	display: block;
+	color: white;
+	float: right;
+	margin-top: 5px;
+	margin-right: 25px;
+	text-align: fixed;
+}
+
+.head
+{
+	height: 110px;
+	background:url(../img/bghead.png) repeat, center / cover;
+}
+
+#logominecraft
+{
+	display: block;
+	margin-left: 30%;
+  	margin-right: auto;
+	width: 40%;
+	height: auto;
+	margin-top: 20px;
+	position: fixed;
+}
+
+ul
+{
+	padding: 0;
+	margin:0;
+}
+
+.head li
+{
+	display: block;
+	font-size: 12.8px;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-decoration: none;
+}
+
+.leftblockmenu
+{
+	text-decoration: none;
+	display: block;
+	float: left;
+	margin-top: 10px;
+	color: white;
+}
+
+.rightblockmenu
+{
+	text-decoration: none;
+	display: block;
+	float: right;
+	color: red;
+	margin-top: 10px;
+	overflow: auto;
+}
+
+#redblock
+{
+	display: block;
+	margin-left: 5px;
+	position: static;
+	height: auto;
+	width: 35%;
+}
+
+#realm
+{
+	display: block;
+	position: static;
+	height: auto;
+	width: 9%;
+}
+
+#chest
+{
+	display: block;
+	position: static;
+	height: auto;
+	width: 40%;
+}
+
+#dimond
+{
+	position: static;
+	display: block;
+	padding: 0;
+	border: 0;
+	height: auto;
+	width: 10%;
+	overflow: auto;
+}

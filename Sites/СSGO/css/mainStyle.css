@@ -1,0 +1,98 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	background: url(../img/bg1.jpeg) no-repeat center / cover;
+	background-attachment: fixed;
+	font-family: Arial, sans-serif;
+}
+
+header
+{
+	margin-top: 150px;
+}
+
+
+.container
+{
+	width: 700px;
+	margin: 0 auto;
+}
+
+.head
+{
+	margin-top: 150px;
+	background-color: #232628;
+	opacity: 0.7;
+	height: 50px;
+}
+
+.news
+{
+	margin-top: 2px;
+	height: 400px;
+	opacity: 0.7;
+	background-color: #232628;
+}
+
+.list
+{
+	float: left;
+	margin-left: 15px;
+}
+/*Main block with this sheet*/
+.list ul
+{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+/*list*/
+.list li
+{
+	float:left;
+	display: block;
+	margin-left: 15px;
+	margin-top: 13px;
+}
+/*Referense*/
+.list a
+{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#oneEl
+{
+	color:#ce8404;
+}
+
+#formwidth
+{
+	width: 150px;
+}
+
+#search
+{
+	background-color:#305169;
+	border:0;
+	margin-left: 20px;
+	width: 150px;
+	opacity: 0.7;
+	margin-top:15px;
+}
+
+#search_logo
+{
+	margin-right: : 100px;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.list a:hover
+{
+	color:#ce8404;
+}
