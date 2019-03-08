@@ -1,0 +1,14 @@
+E:\Prog-s\TIMCADV\TIMCADV\bin\Debug\TIMCADV.exe.config
+E:\Prog-s\TIMCADV\TIMCADV\bin\Debug\TIMCADV.exe
+E:\Prog-s\TIMCADV\TIMCADV\bin\Debug\TIMCADV.pdb
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.csprojAssemblyReference.cache
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.Form1.resources
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.Properties.Resources.resources
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.SampleRead.resources
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.csproj.GenerateResource.cache
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.csproj.CoreCompileInputs.cache
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.exe
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.pdb
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.Table.resources
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.Graphic.resources
+E:\Prog-s\TIMCADV\TIMCADV\obj\Debug\TIMCADV.Caractecistics.resources
